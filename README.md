@@ -11,9 +11,11 @@
 </p>
 
  ### 📕 Skill Set
-- Language:  
-<img src="https://img.shields.io/badge/Java11-green?logo=Java"/>
+ - Language:  
+<p><img src="https://img.shields.io/badge/Java11-green?logo=Java"/>
 <img src="https://img.shields.io/badge/Python3.8-blue?logoColor=White&style=flat-square&logo=Python"/>
+</p>
+
 - Skill Set
 <p>
   <a><img src="https://img.shields.io/badge/Spring-6DB33F?logo=Spring&logoColor=White"/></a><img src="https://img.shields.io/badge/SpringMVC-6DB33F?logo=Spring&logoColor=White"/>
@@ -24,7 +26,8 @@
 <img src="https://img.shields.io/badge/DjangoNinja-DD6620?logo=Django&logoColor=White"/>
 </p>
 
-- Infra ( AWS) :
+- Infra (AWS) :
+<p>
 <img src="https://img.shields.io/badge/AWS-232F3E?logo=Amazon-AWS"/>
 <img src="https://img.shields.io/badge/CloudWatch-232F3E?logo=Amazon-CloudWatch&logoColor=White"/>
 <img src="https://img.shields.io/badge/EC2-282828?logo=Amazon-EC2&logoColor=White"/>
@@ -33,6 +36,7 @@
 <img src="https://img.shields.io/badge/RDS-232F3E?logo=Amazon-RDS&logoColor=White"/>
 <img src="https://img.shields.io/badge/CloudWatch-232F3E?logo=Amazon-CloudWatch&logoColor=White"/>
 <img src="https://img.shields.io/badge/GithubActions-232F3E?logo=Github-Actions&logoColor=White"/>
+</p>
 
 
 
